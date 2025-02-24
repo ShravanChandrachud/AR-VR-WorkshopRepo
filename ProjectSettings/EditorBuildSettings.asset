@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ImageTarget.unity
+    guid: 6df35f4539e971545afbcc42e54990c5
+  - enabled: 0
+    path: Assets/Scenes/GroundPlane.unity
+    guid: 6845cedd5dd8fc242a45d34b7585b145
+  m_configObjects: {}
